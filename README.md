@@ -16,3 +16,5 @@ A collection of Android interview questions and answers to help developers prepa
 - Play Store Guidelines & App Publishing  
 
 🚀 Content will be added soon! Stay tuned.  
+
+⭐ **Star this repository** to stay updated!  
